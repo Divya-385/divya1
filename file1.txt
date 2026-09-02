@@ -1,2 +1,2 @@
 hello guys
-msg from master
+msg merge conflict resolved
